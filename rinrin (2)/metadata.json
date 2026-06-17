@@ -1,6 +1,0 @@
-{
-  "name": "RinRin",
-  "description": "RinRin is a hyperlocal peer-to-peer rental marketplace that lets you rent tools, devices, cameras, camping gear and more from nearby neighbours.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
